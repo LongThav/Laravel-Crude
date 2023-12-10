@@ -19,3 +19,6 @@ Route::resource('students', StudentController::class);
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+//https://www.youtube.com/watch?v=lZJi0gWFghk&list=PLjsp2uDzfb3378Gsa2EvLns8nuedyKyEh&index=3
